@@ -1,1 +1,1 @@
-Baysian optimization project for DTU course 02463
+Baysian optimization mini-project 1 for DTU course 02463
